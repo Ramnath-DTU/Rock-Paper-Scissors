@@ -42,3 +42,4 @@ JavaScript (ES6): For game logic and interactivity.
 
 ![Screenshot 2025-04-13 163522](https://github.com/user-attachments/assets/4f531a22-e088-4cba-bce3-c258d42a6a08)
 
+![Screenshot 2025-04-13 171241](https://github.com/user-attachments/assets/55708817-0a01-40a0-84e7-eb23b3ec7a95)
