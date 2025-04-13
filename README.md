@@ -30,6 +30,8 @@ S for Scissors
 The computer will randomly select its move.
 
 The result (Win/Loss/Tie) will be displayed, and the score will be updated accordingly.
+
+
     </br>
 💻 Technologies Used
 HTML5: For structuring the game interface.
