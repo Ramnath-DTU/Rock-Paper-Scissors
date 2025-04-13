@@ -39,3 +39,6 @@ HTML5: For structuring the game interface.
 CSS3: For styling and animations.
 
 JavaScript (ES6): For game logic and interactivity.
+
+![Screenshot 2025-04-13 163522](https://github.com/user-attachments/assets/4f531a22-e088-4cba-bce3-c258d42a6a08)
+
