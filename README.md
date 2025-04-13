@@ -30,21 +30,7 @@ S for Scissors
 The computer will randomly select its move.
 
 The result (Win/Loss/Tie) will be displayed, and the score will be updated accordingly.
-
-To reset the score, click the reset button and confirm in the pop-up.
-
-📂 Project Structure
-text
-📦 Rock-Paper-Scissors
-├── 📄 index.html         # Main HTML file
-├── 📂 css/
-│   └── styles.css        # Styling for the game
-├── 📂 js/
-│   └── script.js         # JavaScript logic for gameplay
-└── 📂 images/
-    ├── rock.png          # Icon for Rock
-    ├── paper.png         # Icon for Paper
-    └── scissors.png      # Icon for Scissors
+    </br>
 💻 Technologies Used
 HTML5: For structuring the game interface.
 
