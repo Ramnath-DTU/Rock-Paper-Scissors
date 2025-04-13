@@ -33,6 +33,7 @@ The result (Win/Loss/Tie) will be displayed, and the score will be updated accor
 
 
 💻 Technologies Used
+
 HTML5: For structuring the game interface.
 
 CSS3: For styling and animations.
