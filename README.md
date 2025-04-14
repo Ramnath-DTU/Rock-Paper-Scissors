@@ -1,5 +1,6 @@
 # Rock-Paper-Scissors
 🎮 Features
+
 🖥️ User-Friendly Interface: Simple and intuitive design for easy gameplay.
 
 🤖 Single-Player Mode: Compete against a computer opponent that makes random choices.
